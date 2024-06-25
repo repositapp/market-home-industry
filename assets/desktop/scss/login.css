@@ -1,0 +1,30 @@
+html,
+body {
+	height: 100%;
+	background: radial-gradient(circle at top left, #e001b4, #0667d0);
+}
+
+body.register {
+	height: auto !important;
+}
+
+.misc-wrapper {
+	height: 85%;
+	padding: 10px 0 !important;
+}
+
+.misc-wrapper.register {
+	margin-top: -50px !important;
+}
+
+.misc-box {
+	background-color: #fff;
+	padding: 30px;
+	border-radius: 10px;
+}
+
+.misc-header {
+	font-size: 20px;
+	font-weight: 600;
+	color: #575962;
+}
